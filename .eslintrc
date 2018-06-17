@@ -1,0 +1,4 @@
+{
+  "plugins": [ "my-eslist-plugin" ],
+  "rules": { "my-eslist-plugin/var-length": "warn" }
+}

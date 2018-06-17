@@ -1,0 +1,26 @@
+{
+  "name": "ast",
+  "version": "1.0.0",
+  "description": "Just learn AST in Javascript",
+  "main": "string.js",
+  "dependencies": {
+    "acorn": "^5.7.1",
+    "eslint": "^4.19.1"
+  },
+  "devDependencies": {
+    "eslint-plugin-my-eslist-plugin": "file:my-eslint-plugin"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freeozyl80/AST.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/freeozyl80/AST/issues"
+  },
+  "homepage": "https://github.com/freeozyl80/AST#readme"
+}
