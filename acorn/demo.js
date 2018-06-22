@@ -1,6 +1,6 @@
 var acorn = require("acorn")
 
-var code = "let demo = 'This is Just Test'; let G = function() {}; G() // I love alamo";
+var code = "let demo = 'This is Just Test'; let G = function() {}; G() // I love playing";
 var ast = acorn.parse(code, {
 	// ecmaVersion:7, //字面意义，很好理解，就是设置你要解析的 JavaScript 的 ECMA 版本。默认是 ES7
 	// onComment:function(block, text, start, end) {   // 这里可以将注释搞定
